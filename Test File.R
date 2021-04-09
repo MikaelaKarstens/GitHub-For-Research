@@ -3,4 +3,6 @@
 two <- 1 + 1
 two
 
-# lets make a branch! 
+# Making a commit to a new branch
+
+three <- 1 + 2
