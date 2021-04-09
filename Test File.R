@@ -2,3 +2,5 @@
 
 two <- 1 + 1
 two
+
+# This is an example of your coauthor doing work on a file.
